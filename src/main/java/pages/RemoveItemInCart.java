@@ -21,6 +21,6 @@ public class RemoveItemInCart {
 	public void removeItem() {
 		//driver.findElement(btncart).click();
 		driver.findElement(btnbackhome).click();
-	
+	// test commit
 	}
 }
